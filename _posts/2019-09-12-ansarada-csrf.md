@@ -6,4 +6,4 @@ comments: true
 keywords: "CSRF, web"
 ---
 
-View the slides [https://brian-website-public-docs.s3-ap-southeast-2.amazonaws.com/CSRF.pdf](here). 
+View the slides [https://brian-website-public-docs.s3-ap-southeast-2.amazonaws.com/CSRF.pdf](here).
